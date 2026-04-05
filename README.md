@@ -129,8 +129,3 @@ Press **'q'** to exit.
 
 Feel free to fork this repo and improve it!
 
----
-
-## 📜 License
-
-This project is open-source and available under the MIT License.
